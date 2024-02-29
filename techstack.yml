@@ -2,7 +2,7 @@ repo_name: drunkensouljah/gatsby-starter-netlify-cms
 report_id: 214e002ebd481c660c7fbbcf4e50e6ce
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:09:22+00:00'
+timestamp: '2024-02-29T18:19:31+00:00'
 requested_by: talves
 provider: github
 branch: master
@@ -85,7 +85,7 @@ tools:
   last_updated_by: Shawn Erquhart
   last_updated_on: 2018-07-11 21:39:22.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.16.4
   license: MIT
